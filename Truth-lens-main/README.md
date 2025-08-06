@@ -14,10 +14,9 @@ link: [preview](https://drive.google.com/file/d/1-p_npYW72FshOfrVTMOwCQ0JBVKqoTm
 
 ## Tech Stack
 
-- **Frontend**: React.js, Bootstrap, CSS3
+- **Frontend**: React.js
 - **Backend**: Node.js, Express.js
 - **AI/ML**: CHATGPT API
-- **Database**: In-memory caching (expandable to MongoDB/PostgreSQL)
 
 ## Quick Start
 
